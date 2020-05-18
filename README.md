@@ -1,2 +1,0 @@
-# eedd
-Práctica 1
