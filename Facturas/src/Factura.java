@@ -20,3 +20,4 @@ private class Factura implements IFactura{
 	public float getCantidadIva() {
 
 	}
+
